@@ -9,6 +9,8 @@
   * The Average temperature in June is 75 degrees, while the Average in December is 71 degrees, so not a much of a difference compared to the minimum temperatures.
   * The maximum temperature for both months was a bit closer, with June having a max temperature of 85 degrees and December's max temperature was 83 degrees.
   * Below are the DataFrames I created that show the summary statistics for both Months:
+  <br/>
+  
  ![](resources/June_df.png)
  ![](resources/dec_df.png)
  ## Summary
