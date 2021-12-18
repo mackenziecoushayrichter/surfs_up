@@ -15,5 +15,6 @@
  * Overall, if just baseing the decision on temperature alone, I would advise that eventhough December can get a bit colder compared to June, it would still be a good idea to open the surf shop. 
  * However, there are some other aspects to weather to consider, such as precipitation.
  * I did do some additional analysis to look at the precipitation of both June and Decmeber as well.
- * 
+ ![](resources/june_prcp.png)
+ ![](resources/dec_prcp.png)
  
